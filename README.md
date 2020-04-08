@@ -25,7 +25,7 @@ git checkout -b <feature-name>-<your-name>
 Add only the required files and use a descriptive commit message like...
 ```bash
 git add scrapers/get_va_data.py
-git commit -m "added a working web scraper for "
+git commit -m "added a working web scraper for Virginia hospital data."
 ```
  ...then to push the new feature and I'll proof it before merging it:
 ```bash
@@ -36,5 +36,5 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDI2NjY2LDU5NDM0MTgyM119
+eyJoaXN0b3J5IjpbMTM5NTE2MDQzOSw1OTQzNDE4MjNdfQ==
 -->
