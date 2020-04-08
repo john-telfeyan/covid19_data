@@ -21,7 +21,7 @@ Add only the required files and use a descriptive commit message like...
 git add scrapers/get_va_data.py
 git commit -m "added a working web scraper for Virginia hospital data."
 ```
- ...then to push the new feature and I'll proof it before merging it:
+ ...then to push the new feature and I'll review it before merging it:
 ```bash
 git push --set-upstream origin <feature-name>-<your-name>
 ```
@@ -30,6 +30,6 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc1Nzc4ODIsLTg1NjQ1NTU4OCw2Nz
-g3NTE4MThdfQ==
+eyJoaXN0b3J5IjpbLTY5NzA5Nzc1MCwtODU2NDU1NTg4LDY3OD
+c1MTgxOF19
 -->
