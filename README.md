@@ -24,9 +24,8 @@ git checkout -b <feature-name>-<your-name>
 
 Add only the required files and use a descriptive commit message like...
 ```bash
-git add learn_python/for_loops.ipnb
-git add learn_python/media_files/.
-git commit -m "Added the 'FizzBuzz' challenge to for_loops.ipnb"
+git add scrapers/get_va_data.py
+git commit -m "added a working web scraper for "
 ```
  ...then to push the new feature and I'll proof it before merging it:
 ```bash
@@ -37,5 +36,5 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTUwNjUzMCw1OTQzNDE4MjNdfQ==
+eyJoaXN0b3J5IjpbLTI4MDI2NjY2LDU5NDM0MTgyM119
 -->
