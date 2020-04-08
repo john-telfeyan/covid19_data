@@ -15,7 +15,7 @@ E -- review --> D
 
 Clone the Repo:
 ```bash
-git clone git@github.com:john-telfeyan/self-paced-python-for-data-science.git
+git clone git@github.com:john-telfeyan/covid19_data.git
 ```
 Then please use feature-branch workflow like so; First:
 ```bash
@@ -37,5 +37,5 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MzQxODIzXX0=
+eyJoaXN0b3J5IjpbMjA5MTUwNjUzMCw1OTQzNDE4MjNdfQ==
 -->
