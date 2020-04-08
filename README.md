@@ -2,9 +2,11 @@
 ## How to Contribute to this Repo's DATA:
 We  populate a google sheet. Some folks web-scrape and  some manually enter the data. Reach out [via email](https://bit.ly/3aSlS9K) to get involved!
 
-## How to Contribute to this Repo's CODE:
-***Use feature-branch workflow***
-![master-->feature-branch-->master](https://github.com/john-telfeyan/multi_media/blob/master/feature_branch_diagram.png?raw=true)
+## How to Contribute to this Repo's CODE:  
+***Use feature-branch workflow***  
+
+![master-->feature-branch-->master](https://github.com/john-telfeyan/multi_media/blob/master/feature_branch_diagram.png?raw=true)  
+
 Clone the Repo:
 ```bash
 git clone git@github.com:john-telfeyan/covid19_data.git
@@ -28,6 +30,6 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODE4OTY1OCwtODU2NDU1NTg4LDY3OD
-c1MTgxOF19
+eyJoaXN0b3J5IjpbLTIxMDc1Nzc4ODIsLTg1NjQ1NTU4OCw2Nz
+g3NTE4MThdfQ==
 -->
