@@ -4,14 +4,6 @@ We  populate a google sheet. Some folks web-scrape and  some manually enter the 
 
 ## How to Contribute to this Repo's CODE:
 ***Use feature-branch workflow***
-```mermaid
-graph LR
-A(Original Master) --> D(New Master)
-A -- branch --> C(Feature Branch)
-
-C -- commit  --> E(Feature Branch)
-E -- review --> D
-``` 
 
 Clone the Repo:
 ```bash
@@ -36,5 +28,5 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTE2MDQzOSw1OTQzNDE4MjNdfQ==
+eyJoaXN0b3J5IjpbNjc4NzUxODE4XX0=
 -->
