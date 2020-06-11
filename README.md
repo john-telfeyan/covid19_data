@@ -6,6 +6,7 @@ We  populate a google sheet. Some folks web-scrape and  some manually enter the 
 ***Use feature-branch workflow***  
 
 ![master-->feature-branch-->master](https://github.com/john-telfeyan/multi_media/blob/master/feature_branch_diagram.png?raw=true)  
+  
 
 Clone the Repo:
 ```bash
@@ -30,6 +31,6 @@ Thanks for reading and contributing!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzA5Nzc1MCwtODU2NDU1NTg4LDY3OD
-c1MTgxOF19
+eyJoaXN0b3J5IjpbLTE2MzE2ODc0NCwtNjk3MDk3NzUwLC04NT
+Y0NTU1ODgsNjc4NzUxODE4XX0=
 -->
